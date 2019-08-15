@@ -3,3 +3,8 @@ meanwhile i'm just trying to learn
 
 using git
 
+i need to get used to all these commands
+
+so by the time i push it, if i go to git hub
+
+I'll be able to access the updates
