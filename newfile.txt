@@ -1,0 +1,5 @@
+this is a new file
+meanwhile i'm just trying to learn
+
+using git
+
